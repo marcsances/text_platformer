@@ -1,0 +1,66 @@
+[Sun Aug 19 22:04:30 2018] INIT: initialise game
+[Sun Aug 19 22:04:30 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:04:30 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:04:30 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:04:30 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:04:30 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:04:30 2018] MAP: file size is 1943
+[Sun Aug 19 22:04:30 2018] MAP: map width is 80
+[Sun Aug 19 22:04:30 2018] Found start position at 20,0
+[Sun Aug 19 22:04:44 2018] INIT: closing
+[Sun Aug 19 22:04:44 2018] INIT: freeing memory
+[Sun Aug 19 22:06:11 2018] INIT: initialise game
+[Sun Aug 19 22:06:11 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:06:11 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:06:11 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:06:11 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:06:11 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:06:11 2018] MAP: file size is 1943
+[Sun Aug 19 22:06:11 2018] MAP: map width is 80
+[Sun Aug 19 22:06:11 2018] Found start position at 20,0
+[Sun Aug 19 22:06:17 2018] INIT: closing
+[Sun Aug 19 22:06:17 2018] INIT: freeing memory
+[Sun Aug 19 22:06:55 2018] INIT: initialise game
+[Sun Aug 19 22:06:55 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:06:55 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:06:55 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:06:55 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:06:55 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:06:55 2018] MAP: file size is 1943
+[Sun Aug 19 22:06:55 2018] MAP: map width is 80
+[Sun Aug 19 22:06:55 2018] Found start position at 20,0
+[Sun Aug 19 22:06:57 2018] INIT: closing
+[Sun Aug 19 22:06:57 2018] INIT: freeing memory
+[Sun Aug 19 22:07:18 2018] INIT: initialise game
+[Sun Aug 19 22:07:18 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:07:18 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:07:18 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:07:18 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:07:18 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:07:18 2018] MAP: file size is 1943
+[Sun Aug 19 22:07:18 2018] MAP: map width is 80
+[Sun Aug 19 22:07:18 2018] Found start position at 20,0
+[Sun Aug 19 22:07:21 2018] INIT: closing
+[Sun Aug 19 22:07:21 2018] INIT: freeing memory
+[Sun Aug 19 22:07:37 2018] INIT: initialise game
+[Sun Aug 19 22:07:37 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:07:37 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:07:37 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:07:37 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:07:37 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:07:37 2018] MAP: file size is 1943
+[Sun Aug 19 22:07:37 2018] MAP: map width is 80
+[Sun Aug 19 22:07:37 2018] Found start position at 20,0
+[Sun Aug 19 22:07:59 2018] INIT: closing
+[Sun Aug 19 22:07:59 2018] INIT: freeing memory
+[Sun Aug 19 22:08:19 2018] INIT: initialise game
+[Sun Aug 19 22:08:19 2018] INIT: Will start map level1 with score 0, coins 0, lives 3
+[Sun Aug 19 22:08:19 2018] INIT: map structure allocated, parsing level descriptors
+[Sun Aug 19 22:08:19 2018] LEVEL: loading level file levels/level1.lev
+[Sun Aug 19 22:08:19 2018] INIT: descriptors parsed, parsing map
+[Sun Aug 19 22:08:19 2018] MAP: loading map file levels/level1.asc
+[Sun Aug 19 22:08:19 2018] MAP: file size is 1943
+[Sun Aug 19 22:08:19 2018] MAP: map width is 80
+[Sun Aug 19 22:08:19 2018] Found start position at 20,0
+[Sun Aug 19 22:08:37 2018] INIT: closing
+[Sun Aug 19 22:08:37 2018] INIT: freeing memory
