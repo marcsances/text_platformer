@@ -58,7 +58,8 @@ extern void cursorleft();
 extern void formatreset();
 extern void setformat(int textcolor, int textbackground, int format);
 extern void drawrect(int x, int y, int w, int h, int color);
-
+extern void cursorhide();
+extern void cursorshow();
 
 
 #if !defined(_WIN32) && (defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__)))

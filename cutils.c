@@ -84,6 +84,16 @@ void cursorleft() {
 printf("\033[D");
 }
 
+void cursorhide() {
+    printf("\033[?25h");
+    fflush(stdout);
+}
+
+void cursorshow() {
+    printf("\033[?25l");
+    fflush(stdout);
+}
+
 
 // FUNCIONS DE FORMAT
 
